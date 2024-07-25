@@ -1,51 +1,28 @@
-Hi there, I'm Piyush Tiwari 👋
-🚀 Software Development Engineer at Bajaj Finserv Health Limited, Pune
+# Hi there, I'm Piyush Tiwari 👋
 
-🔧 Technical Skills:
+🚀 **Software Development Engineer** at Bajaj Finserv Health Limited, Pune
 
-Languages: Java, C++, JavaScript, Python
-Backend: Node.js, Express.js, NestJs, Spring Boot
-Frontend: React, TailwindCSS, NextJs
-Databases: Firebase, PostgreSQL, MongoDB
-Web Technologies: Docker, Redis, Kafka
-Others: Git, Azure, API gateway management
-Work Experience
-Bajaj Finserv Health Limited
-Software Development Engineer
-July 2023 – Present, Pune
+🔧 **Technical Skills**:
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) ![NestJs](https://img.shields.io/badge/-NestJs-E0234E?logo=nestjs&logoColor=white&style=flat) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) ![NextJs](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
-Empowered seamless issuance journeys within 7 seconds for over 12+ clients for Health-Tech products.
-Developed a single sign-on microservice using NestJS, TypeScript, MongoDB, and Redis, achieving a 99.99% API success rate.
-Streamlined claim detail exchange using Kafka and MongoDB, slashing database queries by 95% and cutting costs by 40%.
-Enhanced backend processes for policy issuance, increasing issuance rates from 1,200 to over 5,000 policies per hour.
-Designed a highly efficient microservice for processing Salesforce platform events, increasing event processing speed by 60%.
-Internships
+### Projects
+- **[The Chess Website](https://github.com/Drigger91/TheChessWebsiteReact)**: Interactive chess platform using ReactJS and styled-components.
+- **[CyberCrypto](https://github.com/Drigger91/CryptoAppwReduxtoolkit)**: Real-time crypto info platform using ReactJs and Redux Toolkit.
+- **[NoteSync](https://github.com/Drigger91/vite-note-extension)**: Browser extension for note-taking with ViteJS.
 
-Bajaj Finserv Health Limited
-SDE Intern
-August 2022 – June 2023, Pune
+### Profiles
+- **LeetCode**: Solved 900+ questions, participated in 45+ contests. Peak rating: 1900+, top 3.7% globally.
+- **[LinkedIn](https://www.linkedin.com/in/piyusht29)**
+- **[Portfolio](https://portfolio-piyush-nu.vercel.app/)**
 
-Migrated module to apache HttpClient, improving APM visibility by 90% and fixing memory leak issues by over 50%.
-Ensured TDD using JUnit and Mockito, improving code coverage from 6% to 83%.
-Integrated KEDA into Kubernetes deployment to dynamically scale resources, reducing OOM module restarts by over 90%.
-ChessBase India
-SDE Intern
-January 2022 – March 2022, Remote
+### Education
+**University Institute Of Technology, RGPV, Bhopal**  
+_B.Tech in Electronics & Communications Engineering_  
+_CGPA: 8.4/10_
 
-Built reusable components for the academy portal on Next.js, maintaining a Lighthouse score between 80-85.
-Developed APIs for puzzle score calculation and move validation with Node.js, achieving over 90% code coverage.
-Projects
-The Chess Website: A fully interactive and responsive chess platform using ReactJS and styled-components, with a NestJS backend and MongoDB for data storage.
-CyberCrypto: A real-time crypto information exchange platform using ReactJs and Redux Toolkit, deployed on Netlify.
-NoteSync: A browser extension using ViteJS for note-taking and storing user notes for individual web pages.
-Profiles
-LeetCode: Solved over 900+ questions for Data Structures and Algorithms, participated in more than 45 programming contests, achieving a peak rating of 1900+ and ranking in the top 3.7% globally.
-LinkedIn
-Portfolio
-Education
-University Institute Of Technology, RGPV, Bhopal
-B.Tech in Electronics & Communications Engineering
-July 2019 - June 2023
-CGPA: 8.4/10
-
-Feel free to reach out to me at piyushtiwari2903@gmail.com.
+Feel free to reach out to me at [piyushtiwari2903@gmail.com](mailto:piyushtiwari2903@gmail.com).
