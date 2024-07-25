@@ -10,10 +10,6 @@
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat)
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
-### Projects
-- **[The Chess Website](https://github.com/Drigger91/TheChessWebsiteReact)**: Interactive chess platform using ReactJS and styled-components.
-- **[CyberCrypto](https://github.com/Drigger91/CryptoAppwReduxtoolkit)**: Real-time crypto info platform using ReactJs and Redux Toolkit.
-- **[NoteSync](https://github.com/Drigger91/vite-note-extension)**: Browser extension for note-taking with ViteJS.
 
 ### Profiles
 - **LeetCode**: Solved 900+ questions, participated in 45+ contests. Peak rating: 1900+, top 3.7% globally.
