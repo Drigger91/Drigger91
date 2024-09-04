@@ -12,7 +12,7 @@
 
 
 ### Profiles
-- **[LeetCode](https://www.leetcode.com/piyush077)**:
+- **[LeetCode](https://www.leetcode.com/piyush077)**
 - **[LinkedIn](https://www.linkedin.com/in/piyusht29)**
 - **[Portfolio](https://portfolio-piyush-nu.vercel.app/)**
 
