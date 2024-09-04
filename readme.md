@@ -12,7 +12,7 @@
 
 
 ### Profiles
-- **[LeetCode](https://www.leetcode.com/piyush077)**: Solved 900+ questions, participated in 45+ contests. Peak rating: 1900+, top 3.7% globally.
+- **[LeetCode](https://www.leetcode.com/piyush077)**:
 - **[LinkedIn](https://www.linkedin.com/in/piyusht29)**
 - **[Portfolio](https://portfolio-piyush-nu.vercel.app/)**
 
